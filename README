@@ -1,0 +1,11 @@
+Welcome to Music::DB!
+
+See the pod documentation included with various
+modules as well as the included scripts in bin/.
+
+
+Installation quick start:
+
+% perl Makefile.PL
+% make
+% sudo make install 
